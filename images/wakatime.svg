@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="220.7" height="20">
+
+  <linearGradient id="smooth" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+
+  <clipPath id="round">
+    <rect width="220.7" height="20" rx="3" fill="#fff"/>
+  </clipPath>
+
+  <g clip-path="url(#round)">
+    <rect width="80.7" height="20" fill="#555"/>
+    <rect x="80.7" width="140" height="20" fill="#007ec6"/>
+    <rect width="220.7" height="20" fill="url(#smooth)"/>
+  </g>
+
+  <g fill="#fff"
+     text-anchor="middle"
+     font-family="DejaVu Sans,Verdana,Geneva,sans-serif"
+     font-size="110">
+
+    <!-- Icon -->
+    <image x="5" y="3" width="14" height="14"
+      xlink:href="data:image/svg+xml;utf8,&lt;svg width=&quot;340&quot; height=&quot;340&quot; viewBox=&quot;0 0 340 340&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; clip-rule=&quot;evenodd&quot; d=&quot;M170 20C87.156 20 20 87.156 20 170C20 252.844 87.156 320 170 320C252.844 320 320 252.844 320 170C320 87.156 252.844 20 170 20Z&quot; stroke=&quot;white&quot; stroke-width=&quot;40&quot;/&gt;&lt;path d=&quot;M190.183 213.541L168.6 198.214L146.243 212.346L107.607 156.061L152.555 193.9L235.684 120.583Z&quot; fill=&quot;white&quot; stroke=&quot;white&quot; stroke-width=&quot;10&quot;/&gt;&lt;/svg&gt;"/>
+
+    <!-- Label (moved left & aligned near logo) -->
+    <text x="480" y="150" fill="#010101" fill-opacity=".3"
+          transform="scale(0.1)">wakatime</text>
+    <text x="480" y="140"
+          transform="scale(0.1)">wakatime</text>
+
+    <!-- Value -->
+    <text x="1587" y="150" fill="#010101" fill-opacity=".3"
+          transform="scale(0.1)">46243 hrs 34 mins</text>
+    <text x="1587" y="140"
+          transform="scale(0.1)">46243 hrs 34 mins</text>
+
+    <!-- Links -->
+    <a xlink:href="https://wakatime.com/">
+      <rect width="80.7" height="20" fill="rgba(0,0,0,0)"/>
+    </a>
+    <a xlink:href="https://wakatime.com/">
+      <rect x="80.7" width="140" height="20" fill="rgba(0,0,0,0)"/>
+    </a>
+
+  </g>
+</svg>
