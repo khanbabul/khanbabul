@@ -21,11 +21,12 @@
 
 ## Socials
 <div align="center">
-<a href="https://wa.me/923483295716" target="_blank"><img align="center" src="https://khanbabul.github.io/khanbabul/images/whatsapp.png" alt="khanbabul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/babulkhan" target="_blank"><img align="center" src="https://khanbabul.github.io/khanbabul/images/linkedin.png" alt="babulkhan" height="30" width="40" /></a>
-<a href="https://facebook.com/devbabulkhan" target="_blank"><img align="center" src="https://khanbabul.github.io/khanbabul/images/facebook.png" alt="babulkhan" height="30" width="40" /></a>
-<a href="https://instagram.com/devbabulkhan" target="_blank"><img align="center" src="https://khanbabul.github.io/khanbabul/images/instagram.png" alt="khanbabulkhan" height="30" width="40" /></a>
+<a href="https://wa.me/923483295716" target="_blank"><img align="center" src="https://khanbabul.github.io/khanbabul/images/whatsapp.png" alt="khanbabul" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/babulkhan" target="_blank"><img align="center" src="https://khanbabul.github.io/khanbabul/images/linkedin.png" alt="babulkhan" height="40" width="40" /></a>
+<a href="https://facebook.com/devbabulkhan" target="_blank"><img align="center" src="https://khanbabul.github.io/khanbabul/images/facebook.png" alt="babulkhan" height="40" width="40" /></a>
+<a href="https://instagram.com/devbabulkhan" target="_blank"><img align="center" src="https://khanbabul.github.io/khanbabul/images/instagram.png" alt="khanbabulkhan" height="40" width="40" /></a>
   </div>
+
 
 
 
