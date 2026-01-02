@@ -1,5 +1,5 @@
 [![wakatime](https://khanbabul.github.io/khanbabul/images/wakatime.svg)](https://devbabul.vercel.app)
-<img src="https://khanbabul.github.io/khanbabul/images/views.svg" alt="https://devbabul.vercel.app" />
+[![wakatime](https://khanbabul.github.io/khanbabul/images/views.svg)](https://devbabul.vercel.app)
 <img src="https://raw.githubusercontent.com/khanbabul/khanbabul/main/images/github_banner.png">
 <h2>Hi, I'm Babul!</h2>
 <p>
@@ -26,5 +26,6 @@
 <a href="https://facebook.com/devbabulkhan" target="_blank"><img align="center" src="https://khanbabul.github.io/khanbabul/images/facebook.png" alt="babulkhan" height="30" width="40" /></a>
 <a href="https://instagram.com/devbabulkhan" target="_blank"><img align="center" src="https://khanbabul.github.io/khanbabul/images/instagram.png" alt="khanbabulkhan" height="30" width="40" /></a>
   </div>
+
 
 
