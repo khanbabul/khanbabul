@@ -6,6 +6,13 @@
   You came for the code but stayed for the terrible attempts at humor. Feel free to reach out for any projects or questions. Fun fact: I'll always take on new projects, even when 120+ unfinished repos are haunting me. 
 </em></p>
 
+<a href="https://devbabul.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khanbabul/khanbabul/main/dark_mode.svg">
+    <img alt="Babul Khan's GitHub Profile README" src="https://raw.githubusercontent.com/khanbabul/khanbabul/main/light_mode.svg">
+  </picture>
+</a>
+
 [![GitHub Babul](https://khanbabul.github.io/khanbabul/images/github_follow.svg)](https://github.com/khanbabul)
 [![Twitter Babul](https://khanbabul.github.io/khanbabul/images/linkedin.svg)](https://linkedin.com/in/babulkhan)
 
@@ -23,9 +30,3 @@
 <a href="https://facebook.com/devbabulkhan" target="_blank"><img align="center" src="https://khanbabul.github.io/khanbabul/images/facebook.png" alt="babulkhan" height="40" width="40" /></a>
 <a href="https://instagram.com/devbabulkhan" target="_blank"><img align="center" src="https://khanbabul.github.io/khanbabul/images/instagram.png" alt="khanbabulkhan" height="40" width="40" /></a>
   </div>
-
-
-
-
-
-
