@@ -10,7 +10,7 @@
 
 <img src="https://raw.githubusercontent.com/khanbabul/khanbabul/main/images/github_banner.png">
 
-<h2>Hi, I'm Babul!</h2>
+<h2>Hi, I'm Babul Khan Durrani</h2>
 
 <p>
   You came for the code but stayed for the terrible attempts at humor. Feel free to reach out for any projects or questions. Fun fact: I'll always take on new projects, even when 120+ unfinished repos are haunting me. 
